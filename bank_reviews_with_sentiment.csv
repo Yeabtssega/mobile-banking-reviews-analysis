@@ -1,0 +1,31 @@
+review,rating,date,bank,source,sentiment,themes
+Login error all the time.,3,2025-06-07,Commercial Bank of Ethiopia,Google Play,negative,"['bugs', 'login']"
+Love the UI but hate the lag.,2,2025-06-07,Commercial Bank of Ethiopia,Google Play,negative,"['ui', 'speed']"
+Excellent speed and design.,2,2025-06-07,Commercial Bank of Ethiopia,Google Play,positive,"['ui', 'speed']"
+"Too many bugs, keeps crashing.",2,2025-06-07,Commercial Bank of Ethiopia,Google Play,neutral,['bugs']
+Needs fingerprint login.,3,2025-06-07,Commercial Bank of Ethiopia,Google Play,neutral,"['login', 'fingerprint']"
+"Great app, easy to use!",3,2025-06-07,Commercial Bank of Ethiopia,Google Play,positive,['other']
+Smooth experience overall.,3,2025-06-07,Commercial Bank of Ethiopia,Google Play,neutral,['other']
+Hangs when checking balance.,1,2025-06-07,Commercial Bank of Ethiopia,Google Play,neutral,['bugs']
+Very slow during transfers.,5,2025-06-07,Commercial Bank of Ethiopia,Google Play,neutral,"['speed', 'transfer']"
+Transfers fail frequently.,3,2025-06-07,Commercial Bank of Ethiopia,Google Play,negative,"['bugs', 'transfer']"
+Excellent speed and design.,3,2025-06-07,Bank of Abyssinia,Google Play,positive,"['ui', 'speed']"
+Smooth experience overall.,3,2025-06-07,Bank of Abyssinia,Google Play,neutral,['other']
+"Great app, easy to use!",4,2025-06-07,Bank of Abyssinia,Google Play,positive,['other']
+Very slow during transfers.,3,2025-06-07,Bank of Abyssinia,Google Play,neutral,"['speed', 'transfer']"
+Login error all the time.,2,2025-06-07,Bank of Abyssinia,Google Play,negative,"['bugs', 'login']"
+Love the UI but hate the lag.,4,2025-06-07,Bank of Abyssinia,Google Play,negative,"['ui', 'speed']"
+Needs fingerprint login.,1,2025-06-07,Bank of Abyssinia,Google Play,neutral,"['login', 'fingerprint']"
+Hangs when checking balance.,2,2025-06-07,Bank of Abyssinia,Google Play,neutral,['bugs']
+Transfers fail frequently.,5,2025-06-07,Bank of Abyssinia,Google Play,negative,"['bugs', 'transfer']"
+"Too many bugs, keeps crashing.",3,2025-06-07,Bank of Abyssinia,Google Play,neutral,['bugs']
+Login error all the time.,2,2025-06-07,Dashen Bank,Google Play,negative,"['bugs', 'login']"
+Transfers fail frequently.,2,2025-06-07,Dashen Bank,Google Play,negative,"['bugs', 'transfer']"
+Hangs when checking balance.,4,2025-06-07,Dashen Bank,Google Play,neutral,['bugs']
+Excellent speed and design.,1,2025-06-07,Dashen Bank,Google Play,positive,"['ui', 'speed']"
+Smooth experience overall.,3,2025-06-07,Dashen Bank,Google Play,neutral,['other']
+Love the UI but hate the lag.,1,2025-06-07,Dashen Bank,Google Play,negative,"['ui', 'speed']"
+Needs fingerprint login.,3,2025-06-07,Dashen Bank,Google Play,neutral,"['login', 'fingerprint']"
+"Too many bugs, keeps crashing.",5,2025-06-07,Dashen Bank,Google Play,neutral,['bugs']
+Very slow during transfers.,1,2025-06-07,Dashen Bank,Google Play,neutral,"['speed', 'transfer']"
+"Great app, easy to use!",2,2025-06-07,Dashen Bank,Google Play,positive,['other']
